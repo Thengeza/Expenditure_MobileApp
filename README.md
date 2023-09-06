@@ -16,3 +16,5 @@ Before you begin, ensure you have met the following requirements:
 - .NET 6 SDK installed on your development machine.
 - Visual Studio or Visual Studio Code for development (optional but recommended).
  
+##Figma Prototype
+https://www.figma.com/proto/Tg5XevGnWaPahXnoTzisoI/Expenditure?type=design&node-id=2-2&t=sU4eyVq3q25H4rOL-0&scaling=scale-down&page-id=0%3A1
