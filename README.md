@@ -17,4 +17,7 @@ Before you begin, ensure you have met the following requirements:
 - Visual Studio or Visual Studio Code for development (optional but recommended).
  
 ## Figma Prototype
-https://www.figma.com/proto/Tg5XevGnWaPahXnoTzisoI/Expenditure?type=design&node-id=2-2&t=sU4eyVq3q25H4rOL-0&scaling=scale-down&page-id=0%3A1
+project: https://www.figma.com/file/Tg5XevGnWaPahXnoTzisoI/Expenditure?type=design&node-id=0%3A1&mode=design&t=sU4eyVq3q25H4rOL-1 
+
+Prototype: https://www.figma.com/proto/Tg5XevGnWaPahXnoTzisoI/Expenditure?type=design&node-id=2-2&t=sU4eyVq3q25H4rOL-0&scaling=scale-down&page-id=0%3A1
+
