@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\001Programming Hub\Projects\Expenditure_MobileApp\ExpenditureApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-06T13:10:34.866</Modified>
+      <Modified>2023-09-06T15:50:23.210</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\001Programming Hub\Projects\Expenditure_MobileApp\ExpenditureApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ExpenditureApp.dll">
       <PackagePath>ExpenditureApp.dll</PackagePath>
-      <Modified>2023-09-06T13:10:16.687</Modified>
+      <Modified>2023-09-06T15:50:15.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\001Programming Hub\Projects\Expenditure_MobileApp\ExpenditureApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ExpenditureApp.exe</PackagePath>
-      <Modified>2023-09-06T13:10:17.006</Modified>
+      <Modified>2023-09-06T15:50:15.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\001Programming Hub\Projects\Expenditure_MobileApp\ExpenditureApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ExpenditureApp.deps.json">
       <PackagePath>ExpenditureApp.deps.json</PackagePath>

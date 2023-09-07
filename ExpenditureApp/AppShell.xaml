@@ -6,8 +6,7 @@
     xmlns:local="clr-namespace:ExpenditureApp"
     Shell.FlyoutBehavior="Disabled">
 
-    <ShellContent
-    Title="Expense Tracker"
+    <ShellContent    
     ContentTemplate="{DataTemplate local:MainPage}"
     Route="MainPage" />
 
